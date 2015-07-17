@@ -24,3 +24,7 @@ Template.createSheetJumbotron.events({
 Template.createSheetJumbotron.helpers({
 
 });
+
+$(document).ready(function() {
+
+});
